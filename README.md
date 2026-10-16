@@ -20,7 +20,7 @@ Every garment in the house carries an original piece from a seven-year daily arc
 
 | Repo | What it is |
 |---|---|
-| [**pl-beta-games**](https://github.com/maurricemccann/pl-beta-games) | 35 standalone games, one self-contained HTML file each. p5.js and three.js. |
+| [**pl-beta-games**](https://github.com/maurricemccann/pl-beta-games) | 33 standalone games and a hub, one self-contained HTML file each. p5.js and three.js. |
 | [**pl-vj-studio**](https://github.com/maurricemccann/pl-vj-studio) | Third Eye, a desktop VJ instrument. Tauri. |
 | [**pl-composer**](https://github.com/maurricemccann/pl-composer) | The scoring surface for the house's video renders. Next.js with a native Rust core. |
 | [**focus-dots**](https://github.com/maurricemccann/focus-dots) · [**even-hub-teleprompter**](https://github.com/maurricemccann/even-hub-teleprompter) | PL FOCUS and PL PROMPTER, apps for Even Realities smart glasses. |
